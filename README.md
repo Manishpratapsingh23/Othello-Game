@@ -56,17 +56,17 @@ The GUI version provides an interactive graphical board built using Java Swing. 
 
 ## 📁 Project Structure
 
-java programmes
- └── game
-     └── othello
-         ├── Board.java
-         ├── Othello.java
-         ├── OthelloGUIself.java
-         ├── Player.java
-         └── image
-             ├── WhiteImage.png
-             ├── BlackImage.png
-             └── BlinkImage.png
+java programmes<br>
+ └── game<br>
+     └── othello<br>
+         ├── Board.java<br>
+         ├── Othello.java<br>
+         ├── OthelloGUIself.java<br>
+         ├── Player.java<br>
+         └── image<br>
+             ├── WhiteImage.png<br>
+             ├── BlackImage.png<br>
+             └── BlinkImage.png<br>
 
 ---
 
