@@ -18,6 +18,11 @@ The project follows **Object-Oriented Programming (OOP)** principles and demonst
 - ✔ Highlighting / blinking of valid moves (GUI)
 
 ---
+<img width="1920" height="1034" alt="image" src="https://github.com/user-attachments/assets/39266f66-fe06-42b8-9bbb-68b05d336a3b" />
+<img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/32ab8bb5-96e1-47db-805b-ad10002fd56d" />
+<img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/e5be83b4-1c92-4e2c-918f-d222998825d5" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/5d6fb5db-f0e8-4cde-9ce3-8b83673d1a41" />
+
 
 ## 🖥 Game Modes
 
